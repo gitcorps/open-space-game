@@ -1,0 +1,14 @@
+{
+  "name": "open-space-game",
+  "version": "0.1.0",
+  "description": "Procedural planet demo",
+  "main": "src/planet.js",
+  "scripts": {
+    "test": "node test/test.js",
+    "start": "node src/planet.js"
+  },
+  "dependencies": {
+    "three": "^0.161.0",
+    "simplex-noise": "^4.0.0"
+  }
+}
